@@ -1,2 +1,2 @@
 # KaggleJourney
-Bill Fu's Kaggle Journey
+Fu's Kaggle Journey
